@@ -1,6 +1,7 @@
 #git init - one time each project to start git
 git init
-git add .
+#sob gula notun hoiche sob gula add kore fela arki
+git add . and we need to  do it every time to add
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/HR-Limon/my-first-github.git
